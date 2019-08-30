@@ -6,11 +6,11 @@ Write in one or more topics for each question using the following topics: Variab
 Error Messages:
 
 
-
 #2 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
+no error, question would not run
 
 
 
@@ -19,6 +19,9 @@ Error Messages:
 
 Error Messages:
 
+for num in user:
+    range(7, num, -1)
+print(num)
 
 
 #4 Topic: _____
@@ -26,7 +29,7 @@ Error Messages:
 
 Error Messages:
 
-
+if user <= -5 and >= -10:
 
 #5 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
@@ -54,7 +57,8 @@ Error Messages:
 
 Error Messages:
 
-
+   if user >= -50 and <= 5:
+elif user >= 5 and <= 50:
 
 #9 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
